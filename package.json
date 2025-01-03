@@ -1,0 +1,15 @@
+{
+  "name": "authenticationpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "watch": "nodemon ./bin/www",
+    "dev": "DEBUG=inventory-app:* npm run watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
